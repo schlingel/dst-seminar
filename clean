@@ -1,0 +1,6 @@
+#!/bin/bash
+rm -rf llncs.toc
+rm -rf llncs.pdf
+rm -rf llncs.log
+rm -rf llncs.aux
+
